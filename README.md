@@ -16,7 +16,7 @@ echo "111.111.111.111 master" >> /etc/hosts   //여기다가 너꺼 마스터 IP
 * keyfile name : mykey.pem
 ```
 $ ls 
-do.sh  hive_empdept.sh  mykey.pem
+do.sh  hive_empdept.sh  mykey.pem             //이것도 너의 key파일(.pem파일)
 ```
 
 ## install
