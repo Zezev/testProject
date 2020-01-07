@@ -3,8 +3,6 @@
 
 아무것도 없네 내가 채워줄게 -현선
 
-
-# testPrj
 ## Prerequistic
 ### hostname
 * master is hadoop master
